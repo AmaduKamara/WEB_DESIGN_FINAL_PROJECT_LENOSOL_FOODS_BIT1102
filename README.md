@@ -1,8 +1,17 @@
 # Amkam DevBootcamp Capstone Project
 
-Thi is a food website for our final project BIT1102 Group 2 bla bla bla
+This is a food website for our final project, BIT1102 Group 2, bla bla bla
 
 #### Desktop Screenshot
+
+### Home Page
+<img width="3584" height="5358" alt="Screenshot 2026-11-12 at 14-43-29 Lenosol Foods Authentic Dining Experience" src="https://github.com/user-attachments/assets/f971e1f3-90a3-4754-af17-3a77f6e861df" />
+
+### Menu Page
+<img width="3584" height="8378" alt="Screenshot 2026-11-12 at 14-43-43 Menu Lenosol Foods" src="https://github.com/user-attachments/assets/ec9c1d13-8a31-4e6f-bb9b-802d43b1fe69" />
+
+### About Page
+<img width="3584" height="4304" alt="Screenshot 2026-11-12 at 14-43-54 About Us Lenosol Foods" src="https://github.com/user-attachments/assets/61002074-083d-4834-953b-606bbc819938" />
 
 
 #### Mobile Screenshot
